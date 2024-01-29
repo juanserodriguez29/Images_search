@@ -34,8 +34,8 @@ function App() {
           }
         >
           <Form>
-            <label>Busca:</label>
-            <Field name="search" type="text" />
+            <label></label>
+            <Field name="search" type="text" placeholder="Search here your images" />
           </Form>
         </Formik>
       </header>

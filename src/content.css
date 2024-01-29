@@ -1,8 +1,10 @@
 .container{
     display: flex;
-    background-color: #eee; 
+    background-color: #883131; 
     justify-content: center;
 }
+
+
 
 .center{
     column-count: 3;

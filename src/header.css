@@ -9,7 +9,8 @@ html * {
 header {
     display: flex;
     justify-content: center;
-    background-color: white;
+    background-color: rgb(0, 0, 0);
+    color: white;
     padding: 22px;
     box-shadow: 1px 2px 5px rgb(0,0,0, 0.3);
     z-index: 2;
